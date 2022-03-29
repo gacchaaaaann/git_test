@@ -5,7 +5,6 @@
 - [README](#readme)
   - [第1回 action](#%E7%AC%AC1%E5%9B%9E-action)
     - [commit](#commit)
-    - [テストですわ～～～～～～～～！！！！！！！！！！！！！！！！！！！](#%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%82%8F)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
